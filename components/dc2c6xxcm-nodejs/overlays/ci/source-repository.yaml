@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dc2c6xxcm-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dc2c6xxcm-nodejs
